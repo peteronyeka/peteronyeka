@@ -100,44 +100,6 @@ I’m Peter Nnenyelike, a results-driven Cybersecurity Analyst with two years of
 
 ---
 
- 
-
-## Featured Repositories
-
- 
-
-
-### 01-home-lab | Building a multi-VM cybersecurity lab
-
-### 02-ad-deployment | Installing and hardening Active Directory
-
-### 03-ad-enum-privesc | Enumerating and escalating privileges in AD 
-
-### 04-security-policy-dev | Crafting AUP, password, and ACL policies 
-
-### 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap
-
-### 06-network-monitoring | Security Onion and Splunk dashboards 
-
-### 07-risk-assessment | CIA impact mapping and risk matrix 
-
-### 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts 
-
-### 09-phishing-simulation | Lab-based phishing campaign and metrics
-
-### 10-phishing-email-forensics | Email header and domain analysis toolkit 
-
-### 11-linux-permissions-audit | Identifying world-writable and SUID files 
-
-### 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning 
-
-### 13-malware-analysis | Static and dynamic malware triage
- 
-
----
-
- 
-
 ## Contact
 
  
@@ -148,7 +110,6 @@ I’m Peter Nnenyelike, a results-driven Cybersecurity Analyst with two years of
 
 
 
- 
 
 ---
 
