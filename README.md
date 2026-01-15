@@ -148,11 +148,11 @@
 
  
 
-- **LinkedIn:** <your-linkedin-url> 
+- **LinkedIn:** (https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BTjyxxCcFTCGVwrCp9rBPVg%3D%3D) 
 
-- **Email:** <your-email> 
+- **Email:** petersangel90@gmail.com 
 
-- **Portfolio:** <your-portfolio-url>
+
 
  
 
