@@ -87,6 +87,8 @@ I’m Peter Nnenyelike, a results-driven Cybersecurity Analyst with two years of
  
 
 - VirtualBox, VMware, AWS Free Tier
+- Autopsy
+- OpenVas, Nmap
 
 - Wireshark, Nmap, Nessus, Nikto, sqlmap
 
